@@ -1,6 +1,6 @@
 # MHGU-HD-Project
 A Remaster of MHGU done with several ESRGAN models.
-This HD pack aims to remaster low quality 3ds textures found in the switch relase of MHXX. 
+This HD pack aims to remaster low quality 3ds textures found in the switch release of MHXX. 
 
 **Summary of completion:**
 
