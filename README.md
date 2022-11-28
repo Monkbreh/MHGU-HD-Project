@@ -20,7 +20,7 @@ Armor: Only Male Gear and Facials for now.
 For CFW switch owners place extract the file in this path:    sdcard:/atmosphere/content/[Game ID]/romfs/
 
 
-For emualtor users: Just follow a proper guide and place the file in the mod folder.
+For emulator users: Just follow a proper guide and place the file in the mod folder.
 
 
 
