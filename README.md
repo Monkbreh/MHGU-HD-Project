@@ -4,7 +4,7 @@ This HD pack aims to remaster low quality 3ds textures found in the switch relea
 
 **Summary of completion:**
 
-UI: Complete. Menus, Title cards, Item box etc. (small chance there is isomething missed) with both full Xbox and PS Layouts. 
+UI: Complete. Menus, Title cards, Item box etc. (small chance there is something i missed) with both full Xbox and PS Layouts. 
 
 Palicoes: Complete. Includes Facials, Armor, Weapons and Gadgets.
 
