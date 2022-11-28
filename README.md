@@ -1,18 +1,36 @@
 # MHGU-HD-Project
-A Remaster of MHGU done with several ESRGAN models .
+A Remaster of MHGU done with several ESRGAN models.
 This HD pack aims to remaster low quality 3ds textures found in the switch relase of MHXX. 
 
-Summary of completion:
+**Summary of completion:**
 
-UI: Complete (might be something i missed) with both full Xbox and PS Layouts. 
+UI: Complete. Menus, Title cards, Item box etc. (small chance there is isomething missed) with both full Xbox and PS Layouts. 
 
-Palicoes: Complete, Includes Facials, Armor, Weapons and Gadgets.
+Palicoes: Complete. Includes Facials, Armor, Weapons and Gadgets.
 
-Weapons: All 14 weapons Done
+Weapons: All 14 Weapons done.
 
-NPCs: Only Pets, Guild hall NPCs and House handlers for now
+NPCs: Only Pets, Guild hall NPCs and House handlers for now.
 
-Armor: Only Male Gear and Facials for now
+Armor: Only Male Gear and Facials for now.
+
+**Installation:**
+
+
+For CFW switch owners place extract the file in this path:    sdcard:/atmosphere/content/[Game ID]/romfs/
+
+
+For emualtor users: Just follow a proper guide and place the file in the mod folder.
+
+
+
+***Disclaimer: The mod does not work on Yuzu due to a problem in the file structure of the emulator.***
+
+
+
+Special thanks to Discord user Luckyguess for his amazing Arc tool, Kuriimu2 devs for the toolkit and Discord user karen4492 for the HD maps. (Also capcom i suppose)
+
+
 
 
 ![1](https://user-images.githubusercontent.com/118343447/204242924-b3f7b417-0452-48c0-a74b-62ad20d38dc4.png)
