@@ -28,7 +28,10 @@ For emulator users: Just follow a proper guide and place the file in the mod fol
 
 
 
-Special thanks to Discord user Luckyguess for his amazing Arc tool, Kuriimu2 devs for the toolkit and Discord user karen4492 for the HD maps. (Also capcom i suppose)
+Special thanks to Discord user Luckyguess for his amazing Arc tool and his suggestions, if you want a haseless installion for my mod check out this installer he made  https://github.com/Luckyguess-0/MHGU-HD-Editor/releases/tag/Release
+
+
+Also Kuriimu2 devs for the toolkit and Discord user karen4492 for the HD maps. (Also capcom i suppose)
 
 
 
