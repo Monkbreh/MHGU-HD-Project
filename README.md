@@ -2,27 +2,6 @@
 A Remaster of MHGU done with several ESRGAN models.
 This HD pack aims to remaster low quality 3ds textures found in the switch release of MHXX. 
 
-**Summary of completion:**
-
-UI: Complete. Menus, Title cards, Item box etc. (small chance there is something i missed) with both full Xbox and PS Layouts. 
-
-Palicoes: Complete. Includes Facials, Armor, Weapons and Gadgets.
-
-Weapons: All 14 Weapons done.
-
-NPCs: Only Pets, Guild hall NPCs and House handlers for now.
-
-Armor: Only Male Gear and Facials for now.
-
-**Installation:**
-
-
-For CFW switch owners place extract the file in this path:    sdcard:/atmosphere/content/[Game ID]/romfs/
-
-
-For emulator users: Just follow a proper guide and place the file in the mod folder.
-
-
 
 ***Disclaimer: The mod does not work on Yuzu due to a problem in the file structure of the emulator.***
 
