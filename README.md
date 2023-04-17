@@ -12,7 +12,7 @@ This HD pack aims to remaster low quality 3ds textures found in the switch relea
 Special thanks to Discord user Luckyguess for his amazing Arc tool and his suggestions :D, if you want to customize which part of my UI mod you want check out this editor he made https://github.com/Luckyguess-0/MHGU-HD-Editor/releases/tag/Release
 
 
-Also Kuriimu2 devs for the toolkit and Discord user karen4492 for the HD maps. (Also capcom i suppose)
+Also Kuriimu2 devs for the toolkit. (Also capcom i suppose)
 
 
 
