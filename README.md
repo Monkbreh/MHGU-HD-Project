@@ -6,7 +6,7 @@ A Remaster of MHGU done with several ESRGAN models. This HD pack aims to remaste
 ## Features:
 
 ### -UI: 
-Complete. Menus, Title cards, Item box etc. (small chance there is something i missed) with both full Xbox and PS Layouts.
+Complete. Menus, Title cards, Item box , Maps etc. (small chance there is something i missed) with both full Xbox and PS Layouts.
 
 ### -Palicoes: 
 Complete. Includes Facials, Armor, Weapons and some Gadgets.
