@@ -1,15 +1,46 @@
 Also Available here https://gamebanana.com/mods/414813
 
 # MHGU-HD-Project
-A Remaster of MHGU done with several ESRGAN models.
-This HD pack aims to remaster low quality 3ds textures found in the switch release of MHXX/MHGU. 
-This release remasters armor, weapons, npc, hud elements, monsters and more..
+A Remaster of MHGU done with several ESRGAN models. This HD pack aims to remaster low quality 3ds textures found in the switch release of MHXX/MHGU.
 
-***Disclaimer: The mod does not work on Yuzu due to a problem in the file structure of the emulator.***
+## Features:
+
+### -UI: 
+Complete. Menus, Title cards, Item box etc. (small chance there is something i missed) with both full Xbox and PS Layouts.
+
+### -Palicoes: 
+Complete. Includes Facials, Armor, Weapons and some Gadgets.
+
+### -Weapons: 
+All 14 Weapons done.
+
+### -NPCs: 
+All Village, Guild Hall, and House Handler NPC
+
+### -Armor: 
+Both Male and Female Armor done
+
+### -Monsters (Optional): 
+2X resolution bump and detail increase.  (No crappy 4K upscale)
+
+### -Installation:
+ For CFW switch owners place extract the file in this path: sdcard:/atmosphere/content/[Game ID]/romfs/
+
+For emulator users: 
+ * Right click on the game properties in the game menu
+ 
+ * Open Mods folder
+ 
+ * Extract the zip files and drop them in the mod folder 
+
+Make sure to download the right Layout for the HD UI
+
+Disclaimer: The mod does not work on Yuzu due to a problem in the file structure of the emulator.
 
 Special thanks to Discord user Luckyguess for his amazing Arc tool and his suggestions :D, if you want to customize which part of my UI mod you want check out this editor he made https://github.com/Luckyguess-0/MHGU-HD-Editor/releases/tag/Release
 
 Also Kuriimu2 devs for the toolkit. (and capcom i suppose)
+
 
 
 
