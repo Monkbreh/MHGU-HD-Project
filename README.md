@@ -45,7 +45,7 @@ Also Kuriimu2 devs for the toolkit. (and capcom i suppose)
 
 
 
-(Come back later)
+
 ![Male_Bherna](https://user-images.githubusercontent.com/118343447/233762700-c84524fe-61a9-4e7c-b78d-8991ec407c0f.png)
 ![Female_Bherna](https://user-images.githubusercontent.com/118343447/233762686-3f3389e8-aa09-4539-bcd3-60ddd056edec.png)
 ![Male_Malf](https://user-images.githubusercontent.com/118343447/233762704-8845b956-db3f-466d-aeb5-3f3e687f5218.png)
