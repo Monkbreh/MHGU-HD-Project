@@ -63,7 +63,7 @@ Also Kuriimu2 devs for the toolkit. (and capcom i suppose)
 ![Rath](https://user-images.githubusercontent.com/118343447/233762717-e359c42b-89e1-4451-8ec1-7b8248cf6361.png)
 ![Vanilla](https://user-images.githubusercontent.com/118343447/233762723-503d5a08-d56b-4658-a3a7-49b34d68c98e.png)
 ![Remastered](https://user-images.githubusercontent.com/118343447/233762720-83f54ccc-70f1-4c38-8a01-10a3c82e2c51.png)
-[Bherna_counter](https://user-images.githubusercontent.com/118343447/233762679-6e389b7f-ac80-4ca3-bda3-16e0cb5d3c84.png)
+![Bherna_counter](https://user-images.githubusercontent.com/118343447/233762679-6e389b7f-ac80-4ca3-bda3-16e0cb5d3c84.png)
 ![Vanilla Hud](https://user-images.githubusercontent.com/118343447/233762722-d87e0d40-7d96-4a78-bc93-6b72502cfe04.png)
 ![Remastered Hud](https://user-images.githubusercontent.com/118343447/233762719-ca1a00b3-3c04-4aa8-8d55-34ff9d55193b.png)
 
