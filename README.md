@@ -3,67 +3,52 @@ Also Available here https://gamebanana.com/mods/414813
 # MHGU-HD-Project
 A Remaster of MHGU done with several ESRGAN models. This HD pack aims to remaster low quality 3ds textures found in the switch release of MHXX/MHGU.
 
-## Features:
+- Support for 7 Languages 
+- UI: Menus, Title cards, Item box , Maps etc. (Nintendo,Xbox and Ps layouts) 
+- Palicoes
+- Weapons
+- NPCs
+- Armor
+- Monsters (Optional): Honestly lazy effort but they do look better  (No crappy 4K upscale)
 
-### -UI: 
-Complete. Menus, Title cards, Item box , Maps etc. (small chance there is something i missed) with both full Xbox and PS Layouts.
+# Installation:
 
-### -Palicoes: 
-Complete. Includes Facials, Armor, Weapons and some Gadgets.
+For CFW switch owners place extract the file in this path: sdcard:/atmosphere/content/[Game ID]/romfs/
 
-### -Weapons: 
-All 14 Weapons done.
+## For emulator users: 
 
-### -NPCs: 
-All Village, Guild Hall, and House Handler NPC
+- Right click on the game properties in the game menu
+- Open Mods folder
+- Extract the zip files and drop them in the mod folder
+- That's it dummy
 
-### -Armor: 
-Both Male and Female Armor done
+**For Yuzu users please make sure to place the romfs inside a folder then place it in the mod directory**
 
-### -Monsters (Optional): 
-2X resolution bump and detail increase.  (No crappy 4K upscale)
-
-### -Installation:
- For CFW switch owners place extract the file in this path: sdcard:/atmosphere/content/[Game ID]/romfs/
-
-For emulator users: 
- * Right click on the game properties in the game menu
- 
- * Open Mods folder
- 
- * Extract the zip files and drop them in the mod folder 
-
-Make sure to download the right Layout for the HD UI
+**Make sure to download the right Layout and Language for the UI**
 
 Special thanks to Discord user Luckyguess for his amazing Arc tool and his suggestions :D, if you want to customize which part of my UI mod you want check out this editor he made https://github.com/Luckyguess-0/MHGU-HD-Editor/releases/tag/Release
 
 Also Kuriimu2 devs for the toolkit. (and capcom i suppose)
 
+![Male Bherna](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/f41468f9-1cc8-422f-b229-cf92c8ac6c95)
+![Female_Bherna](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/fd7d2630-704c-4583-afb4-833f7159771d)
+![dem behera](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/d63edcee-d7b8-41aa-876e-4e9323d7da39)
+![gssss](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/34a51396-08af-4d91-8154-b41f12930d81)
+![palico weeep](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/6608f20f-02d8-40b8-8b75-804cef9a0791)
+![Hudss](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/9b12c8a9-fa8e-468b-979c-e074994dc209)
+![image](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/af8ca46c-6056-454a-bc97-f313456bd3f3)
+![image](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/aea9028a-8b60-4335-8621-df224c1706bd)
+![image](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/389d6255-ff57-431e-91d8-05bad938b20d)
+![image](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/4f0db9fc-9a2b-472d-a789-4599e339b734)
 
 
 
+![old man](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/7930fc78-0bb9-460f-8f3c-ea667e0c708b)
+
+Old man
 
 
-![Male_Bherna](https://user-images.githubusercontent.com/118343447/233762700-c84524fe-61a9-4e7c-b78d-8991ec407c0f.png)
-![Female_Bherna](https://user-images.githubusercontent.com/118343447/233762686-3f3389e8-aa09-4539-bcd3-60ddd056edec.png)
-![Male_Malf](https://user-images.githubusercontent.com/118343447/233762704-8845b956-db3f-466d-aeb5-3f3e687f5218.png)
-![Female_Malf](https://user-images.githubusercontent.com/118343447/233762696-d7ba2a64-db27-410f-9c76-3f74ed39ea43.png)
-![Male_Kecha](https://user-images.githubusercontent.com/118343447/233762703-aa2c3a15-6418-4c02-9af3-b26d939bf9c5.png)
-![Male_Glavenus](https://user-images.githubusercontent.com/118343447/233762702-6dbc339c-d7e2-4d8e-b55a-eb4714e6b8d6.png)
-![Female_Kecha](https://user-images.githubusercontent.com/118343447/233762693-c60c844e-2acf-4327-b11b-e07587391eee.png)
-![Female_Glavenus](https://user-images.githubusercontent.com/118343447/233762689-e7da5549-22cb-4db2-9fab-56eea839c7e5.png)
-![CB](https://user-images.githubusercontent.com/118343447/233762684-522e775c-04b7-4e8d-998e-72c85b275f79.png)
-![GS](https://user-images.githubusercontent.com/118343447/233762698-014577bd-cbaa-4c7f-884c-7916fce37618.png)
-![HBG](https://user-images.githubusercontent.com/118343447/233762699-9364b13b-89f5-435d-8c4f-d0ec0212f4a4.png)
-![Prowler_Bherna](https://user-images.githubusercontent.com/118343447/233762711-ee6291ad-388e-4e6d-82f3-6ba475e726b1.png)
-![Prowler_Malif](https://user-images.githubusercontent.com/118343447/233762714-182c911f-8747-42b8-9886-43287ce5fb16.png)
-![Prowler_bard](https://user-images.githubusercontent.com/118343447/233762707-9cc391b3-8a59-4ec5-b586-5b5ff87e1aac.png)
-![Rath](https://user-images.githubusercontent.com/118343447/233762717-e359c42b-89e1-4451-8ec1-7b8248cf6361.png)
-![Vanilla](https://user-images.githubusercontent.com/118343447/233762723-503d5a08-d56b-4658-a3a7-49b34d68c98e.png)
-![Remastered](https://user-images.githubusercontent.com/118343447/233762720-83f54ccc-70f1-4c38-8a01-10a3c82e2c51.png)
-![Bherna_counter](https://user-images.githubusercontent.com/118343447/233762679-6e389b7f-ac80-4ca3-bda3-16e0cb5d3c84.png)
-![Vanilla Hud](https://user-images.githubusercontent.com/118343447/233762722-d87e0d40-7d96-4a78-bc93-6b72502cfe04.png)
-![Remastered Hud](https://user-images.githubusercontent.com/118343447/233762719-ca1a00b3-3c04-4aa8-8d55-34ff9d55193b.png)
+
 
 
 
