@@ -41,11 +41,9 @@ Also Kuriimu2 devs for the toolkit. (and capcom i suppose)
 ![image](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/389d6255-ff57-431e-91d8-05bad938b20d)
 ![image](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/4f0db9fc-9a2b-472d-a789-4599e339b734)
 
+(Missing files will be uploaded very soon)
 
 
-![old man](https://github.com/Monkbreh/MHGU-HD-Project/assets/118343447/7930fc78-0bb9-460f-8f3c-ea667e0c708b)
-
-Old man
 
 
 
